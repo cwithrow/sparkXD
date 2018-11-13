@@ -5,6 +5,6 @@ Status:
  
  Currently taking 2 notebooks from previous grad school efforts and restructuring into more proper packages:
  
- [Pre_Processing](https://cwithrow.github.io/astro-data-in-spark-preprocessing.html)
+ [Pre_Processing Notebook](https://cwithrow.github.io/astro-data-in-spark-preprocessing.html)
  
- [GMM_modeling](https://cwithrow.github.io/astro-data-in-spark-gmm-models.html)
+ [GMM_modeling Notebook](https://cwithrow.github.io/astro-data-in-spark-gmm-models.html)
