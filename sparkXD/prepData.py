@@ -39,3 +39,4 @@ df_noisy = df_noisy.filter(df_noisy.type == 6)
 df_noisy.registerTempTable("noisy")
 
 print ("Shape of df_noisy: %d rows" % (df_noisy.count()))
+print ("Size of df_noisy: %s" % (load.sizeconv(sys.getsizeof(df_noisy))))
