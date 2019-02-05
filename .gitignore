@@ -75,7 +75,8 @@ target/
 # pyenv
 .python-version
 
-
+# mac os
+.DS_Store
 
 # Environments
 .env
